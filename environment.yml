@@ -1,6 +1,6 @@
 name: environment
 channels:
-  - mamba-forge
+  - conda-forge
 dependencies:
   - numpy
   - matplotlib
