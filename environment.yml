@@ -1,0 +1,7 @@
+name: environment
+channels:
+  - mamba-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
