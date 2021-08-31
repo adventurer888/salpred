@@ -8,6 +8,7 @@ dependencies:
   - jupyter
   - jupyterlab
   - voila
+  - pip
   - pip:
     - numpy
     - pandas
