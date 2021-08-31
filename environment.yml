@@ -6,6 +6,7 @@ dependencies:
   - mamba==0.14.1
   - conda==4.10.3
   - pip
+  - jupyter
   - jupyterlab
   - voila
   - numpy
