@@ -11,6 +11,5 @@ dependencies:
   - numpy
   - pandas
   - ipywidgets
-  - itables
   - matplotlib
   - ipython
