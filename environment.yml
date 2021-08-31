@@ -6,6 +6,5 @@ dependencies:
   - mamba==0.14.1
   - conda==4.10.3
   - pip
-  - miniforge_console_shortcut
   - jupyterlab
   - voila
