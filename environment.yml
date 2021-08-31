@@ -10,3 +10,7 @@ dependencies:
   - voila
   - numpy
   - pandas
+  - ipywidgets
+  - itables
+  - matplotlib
+  - ipython
